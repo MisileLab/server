@@ -1,0 +1,42 @@
+
+[Economy]
+	#Wallet Currency Capacity
+	#The max amount of currency the Wallet can store.
+	#Range: 0 ~ 99999999
+	walletCurrencyCapacity = 1000000
+	#Bank Currency Capacity
+	#The max amount of currency the Bank can store.
+	#Range: 1 ~ 99999999
+	bankCurrencyCapacity = 1000000
+	#Trading Post Broadcasts
+	#Disable this to disallow Players broadcasting their Trading Posts
+	tradingPostBroadcasts = true
+	#Trading Post Broadcast Delay
+	#The amount of seconds before a Player can broadcasts their Trading Post.
+	#Range: 0 ~ 3600
+	tradingPostBroadcastDelay = 10
+	#Trading Post Overlay
+	#Disable this to stop the screen overlay when selecting Trading Posts.
+	tradingPostOverlay = true
+	#Cheap Money Bag Minimum Coins Amount
+	#The minimum of the random amount of currency the Cheap Money Bag gives.
+	#Range: 0 ~ 10000
+	cheapMoneyBagMin = 10
+	#Cheap Money Bag Maximum Coins Amount
+	#The maximum of the random amount of currency the Cheap Money Bag gives.
+	#Range: 0 ~ 10000
+	cheapMoneyBagMax = 100
+	#Rich Money Bag Minimum Coins Amount
+	#The minimum of the random amount of currency the Rich Money Bag gives.
+	#Range: 0 ~ 10000
+	richMoneyBagMin = 75
+	#Rich Money Bag Maximum Coins Amount
+	#The maximum of the random amount of currency the Rich Money Bag gives.
+	#Range: 0 ~ 10000
+	richMoneyBagMax = 300
+
+[Security]
+	#Use Security
+	#Disable this to allow everyone access to anyone's Blocks.
+	useSecurity = true
+
