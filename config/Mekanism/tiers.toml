@@ -118,7 +118,7 @@
 		#Maximum number of Joules Elite induction cells can store.
 		eliteStorage = "512000000000"
 		#Maximum number of Joules Ultimate induction cells can store.
-		ultimateStorage = "4000000000000"
+		ultimateStorage = "4000000000000000"
 		#Maximum number of Joules Basic induction providers can output or accept.
 		basicOutput = "256000"
 		#Maximum number of Joules Advanced induction providers can output or accept.
@@ -126,7 +126,7 @@
 		#Maximum number of Joules Elite induction providers can output or accept.
 		eliteOutput = "16384000"
 		#Maximum number of Joules Ultimate induction providers can output or accept.
-		ultimateOutput = "131072000"
+		ultimateOutput = "13107200000"
 
 	#Transmitters
 	[tier.transmitters]
