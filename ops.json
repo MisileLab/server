@@ -16,5 +16,11 @@
     "name": "forget_password",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d6d62690-c28b-4eee-b434-68172d136288",
+    "name": "Light_Planetary",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
