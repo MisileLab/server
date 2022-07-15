@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/gun_ammo": {
+    "criteria": {
+      "has_minigun": "2022-07-16 00:01:22 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2022-07-12 21:10:32 +0900"
@@ -105,6 +111,12 @@
   "littlelogistics:recipes/redstone/rapid_hopper": {
     "criteria": {
       "has_item": "2022-07-13 00:04:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
     },
     "done": true
   },
@@ -186,6 +198,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:53 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
@@ -207,6 +225,12 @@
   "computercraft:recipes/computercraft/computer_command": {
     "criteria": {
       "has_components": "2022-07-12 22:57:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -258,6 +282,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2022-07-16 00:10:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2022-07-13 21:42:03 +0900"
@@ -270,6 +300,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cheesecake_from_slices": {
+    "criteria": {
+      "has_sweet_berry_cheesecake_slice": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "chunkloaders:recipes/search/ultimate_chunk_loader": {
     "criteria": {
       "item": "2022-07-12 20:57:27 +0900"
@@ -279,6 +315,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-07-12 22:14:22 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2022-07-16 00:07:25 +0900"
     },
     "done": true
   },
@@ -309,6 +351,12 @@
   "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2022-07-14 00:10:45 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:53 +0900"
     },
     "done": true
   },
@@ -387,6 +435,12 @@
   "littlelogistics:recipes/transportation/guide_rail_tug": {
     "criteria": {
       "has_item": "2022-07-14 21:06:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
     },
     "done": true
   },
@@ -546,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2022-07-12 23:52:45 +0900"
@@ -561,6 +621,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_red_dye": "2022-07-13 22:59:56 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:53 +0900"
     },
     "done": true
   },
@@ -642,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
@@ -678,6 +750,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2022-07-16 00:10:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-14 22:21:19 +0900"
@@ -693,6 +771,24 @@
   "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
     "criteria": {
       "has_item": "2022-07-12 21:35:15 +0900"
+    },
+    "done": true
+  },
+  "beyond_earth:rocket_tier_4_advancement": {
+    "criteria": {
+      "rocket_tier_4_advancement": "2022-07-16 00:29:16 +0900"
+    },
+    "done": true
+  },
+  "pneumaticcraft:minigun": {
+    "criteria": {
+      "0": "2022-07-16 00:01:22 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2022-07-16 00:06:56 +0900"
     },
     "done": true
   },
@@ -747,6 +843,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-07-12 22:23:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -846,6 +948,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-07-12 23:36:06 +0900"
@@ -909,6 +1017,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2022-07-12 21:44:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-07-16 00:10:11 +0900"
     },
     "done": true
   },
@@ -1267,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "solargeneration:solar_panel_ultimate": {
     "criteria": {
       "inv_changed": "2022-07-12 21:10:21 +0900"
@@ -1327,6 +1447,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "netherite_knife": "2022-07-16 00:05:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2022-07-14 21:03:58 +0900"
@@ -1336,6 +1462,12 @@
   "create:recipes/create.palettes/small_deepslate_brick_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2022-07-13 22:32:35 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/obtain_netherite_knife": {
+    "criteria": {
+      "obtain_netherite_knife": "2022-07-16 00:05:58 +0900"
     },
     "done": true
   },
@@ -1350,6 +1482,13 @@
       "has_crimsite": "2022-07-13 22:32:31 +0900"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2022-07-15 23:54:50 +0900",
+      "minecraft:basalt_deltas": "2022-07-15 23:54:37 +0900"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1423,6 +1562,12 @@
     },
     "done": true
   },
+  "exnihilosequentia:recipes/exnihilosequentia/ens_end_cake": {
+    "criteria": {
+      "has_ender_pearl": "2022-07-15 23:57:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-12 22:14:22 +0900"
@@ -1486,6 +1631,12 @@
   "create:recipes/create.palettes/small_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-14 22:21:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-07-15 23:54:36 +0900"
     },
     "done": true
   },
@@ -1615,9 +1766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:53 +0900"
     },
     "done": true
   },
@@ -1708,6 +1871,18 @@
   "rftoolsdim:recipes/rftoolsdim/dimension_monitor": {
     "criteria": {
       "redstone": "2022-07-13 21:53:15 +0900"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:53 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2022-07-16 00:07:25 +0900"
     },
     "done": true
   },
@@ -1843,6 +2018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-07-14 20:29:02 +0900"
@@ -1903,6 +2084,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2022-07-16 00:06:58 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/apple_pie_from_slices": {
+    "criteria": {
+      "has_apple_pie_slice": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_crimsite_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2022-07-13 22:32:31 +0900"
@@ -1930,6 +2129,12 @@
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -2047,6 +2252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-07-12 22:14:22 +0900"
@@ -2065,6 +2276,12 @@
     },
     "done": true
   },
+  "factinventory:recipes/factinventory.inventory_item_tab/interaction_module": {
+    "criteria": {
+      "has_ender_pearl": "2022-07-15 23:57:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-07-14 00:43:09 +0900"
@@ -2077,6 +2294,24 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/search/basic_chunk_loader": {
+    "criteria": {
+      "item": "2022-07-15 23:57:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-07-15 23:54:36 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "exnihilosequentia:recipes/exnihilosequentia/ens_stone_hammer": {
     "criteria": {
       "has_material": "2022-07-12 22:14:22 +0900"
@@ -2086,6 +2321,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-07-14 22:21:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -2107,6 +2348,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
+    "criteria": {
+      "has_ender_pearl": "2022-07-15 23:57:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
@@ -2122,6 +2369,12 @@
   "create:recipes/create.palettes/polished_cut_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-14 22:21:19 +0900"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_lead": {
+    "criteria": {
+      "has_lead_rod": "2022-07-16 00:10:58 +0900"
     },
     "done": true
   },
@@ -2245,9 +2498,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-07-12 23:58:40 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2022-07-16 00:06:56 +0900"
     },
     "done": true
   },
@@ -2266,6 +2531,12 @@
   "create:recipes/create.base/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-07-12 23:36:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-07-15 23:54:37 +0900"
     },
     "done": true
   },
@@ -2413,6 +2684,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2022-07-16 00:10:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2022-07-13 17:48:20 +0900"
@@ -2440,6 +2717,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-07-12 22:23:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -2521,6 +2804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
@@ -2557,6 +2846,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_slab_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2022-07-13 22:32:31 +0900"
@@ -2587,9 +2882,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-07-16 00:22:39 +0900"
     },
     "done": true
   },
@@ -2620,6 +2927,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_stairs_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2022-07-13 22:32:31 +0900"
+    },
+    "done": true
+  },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
+    "criteria": {
+      "has_ender_pearl": "2022-07-15 23:57:24 +0900"
     },
     "done": true
   },
@@ -2659,6 +2972,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2022-07-16 00:10:52 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2022-07-16 00:07:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-07-12 21:43:23 +0900"
@@ -2671,9 +2996,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2022-07-12 23:52:45 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2022-07-15 23:57:24 +0900"
     },
     "done": true
   },
@@ -2743,6 +3080,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-07-16 00:22:39 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-07-12 23:36:06 +0900"
@@ -2755,6 +3104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2022-07-12 23:52:45 +0900"
@@ -2764,6 +3119,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-07-12 23:36:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-07-16 00:10:04 +0900"
     },
     "done": true
   },
@@ -2782,6 +3143,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:44:32 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2022-07-16 00:22:39 +0900"
     },
     "done": true
   },
