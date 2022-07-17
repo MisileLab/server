@@ -78,6 +78,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2022-07-17 22:22:27 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2022-07-13 23:42:43 +0900"
@@ -270,6 +276,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_wooden_top_from_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2022-07-17 21:20:23 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 22:13:30 +0900"
@@ -285,6 +297,12 @@
   "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2022-07-13 21:52:55 +0900"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/solid_fuel_quarry": {
+    "criteria": {
+      "has_storage_blocks/gold": "2022-07-17 22:18:36 +0900"
     },
     "done": true
   },
@@ -324,15 +342,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2022-07-15 00:06:47 +0900"
-    },
-    "done": true
-  },
   "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
     "criteria": {
       "has_item": "2022-07-14 22:17:32 +0900"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2022-07-15 00:06:47 +0900"
     },
     "done": true
   },
@@ -546,15 +564,15 @@
     },
     "done": true
   },
-  "create:train_crash": {
-    "criteria": {
-      "0": "2022-07-14 21:37:22 +0900"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/controller_rail": {
     "criteria": {
       "has_item": "2022-07-14 21:01:47 +0900"
+    },
+    "done": true
+  },
+  "create:train_crash": {
+    "criteria": {
+      "0": "2022-07-14 21:37:22 +0900"
     },
     "done": true
   },
@@ -624,6 +642,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/generator": {
+    "criteria": {
+      "has_steel_sheetmetal": "2022-07-17 21:20:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:evoker": "2022-07-14 23:21:33 +0900"
@@ -639,6 +663,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-07-14 20:03:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2022-07-17 22:18:52 +0900"
     },
     "done": true
   },
@@ -741,6 +771,12 @@
   "create:recipes/create.base/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2022-07-13 23:17:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-07-17 22:18:36 +0900"
     },
     "done": true
   },
@@ -978,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_orange_dye": "2022-07-17 22:18:52 +0900"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2022-07-12 21:56:56 +0900"
@@ -1102,7 +1144,9 @@
     "criteria": {
       "minecraft:taiga": "2022-07-13 21:06:25 +0900",
       "minecraft:deep_ocean": "2022-07-12 21:40:40 +0900",
+      "minecraft:sunflower_plains": "2022-07-17 20:59:23 +0900",
       "minecraft:birch_forest": "2022-07-14 00:15:57 +0900",
+      "minecraft:windswept_hills": "2022-07-17 22:48:46 +0900",
       "minecraft:beach": "2022-07-13 21:34:59 +0900",
       "minecraft:dark_forest": "2022-07-12 22:24:19 +0900",
       "minecraft:sparse_jungle": "2022-07-12 22:24:49 +0900",
@@ -1110,13 +1154,16 @@
       "minecraft:stony_shore": "2022-07-12 23:46:08 +0900",
       "minecraft:dripstone_caves": "2022-07-14 22:12:33 +0900",
       "minecraft:grove": "2022-07-13 21:20:40 +0900",
+      "minecraft:swamp": "2022-07-17 22:48:51 +0900",
       "minecraft:cold_ocean": "2022-07-13 21:06:31 +0900",
       "minecraft:forest": "2022-07-12 21:27:03 +0900",
       "minecraft:lush_caves": "2022-07-13 21:20:37 +0900",
       "minecraft:deep_cold_ocean": "2022-07-13 21:16:49 +0900",
       "minecraft:ocean": "2022-07-12 22:49:12 +0900",
+      "minecraft:flower_forest": "2022-07-17 20:58:49 +0900",
       "minecraft:frozen_peaks": "2022-07-13 21:20:39 +0900",
       "minecraft:old_growth_birch_forest": "2022-07-14 00:17:55 +0900",
+      "minecraft:meadow": "2022-07-17 20:58:53 +0900",
       "minecraft:savanna": "2022-07-14 20:10:18 +0900",
       "minecraft:plains": "2022-07-13 21:07:28 +0900"
     },
@@ -1242,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2022-07-17 22:18:52 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2022-07-12 21:55:38 +0900"
@@ -1284,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-07-17 22:19:44 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2022-07-13 20:37:33 +0900"
@@ -1305,6 +1364,18 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2022-07-13 23:07:55 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/tesla_coil": {
+    "criteria": {
+      "has_capacitor_hv": "2022-07-17 21:28:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2022-07-17 22:22:27 +0900"
     },
     "done": true
   },
@@ -1668,15 +1739,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
-    "criteria": {
-      "has_compass": "2022-07-15 00:06:01 +0900"
-    },
-    "done": true
-  },
   "littlelogistics:recipes/transportation/guide_rail_corner": {
     "criteria": {
       "has_item": "2022-07-14 21:01:47 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_compass": "2022-07-15 00:06:01 +0900"
     },
     "done": true
   },
@@ -1980,6 +2051,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
+    "criteria": {
+      "has_steel_sheetmetal": "2022-07-17 21:20:27 +0900"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/spout": {
     "criteria": {
       "has_item": "2022-07-13 23:17:00 +0900"
@@ -2097,6 +2174,12 @@
   "create:recipes/create.base/crafting/kinetics/lime_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-07-12 23:32:11 +0900"
+    },
+    "done": true
+  },
+  "create:long_train": {
+    "criteria": {
+      "0": "2022-07-17 22:36:31 +0900"
     },
     "done": true
   },
@@ -2250,6 +2333,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_to_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2022-07-17 21:20:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-07-12 22:33:10 +0900"
@@ -2295,6 +2384,12 @@
   "create:recipes/create.base/crafting/kinetics/framed_glass_door": {
     "criteria": {
       "has_item": "2022-07-12 22:13:30 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_to_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2022-07-17 21:20:23 +0900"
     },
     "done": true
   },
@@ -2400,6 +2495,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_from_slab": {
+    "criteria": {
+      "has_sheetmetal_steel": "2022-07-17 21:20:27 +0900"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_blue": {
     "criteria": {
       "chest": "2022-07-13 21:02:01 +0900"
@@ -2445,6 +2546,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 22:13:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-07-17 22:22:27 +0900"
     },
     "done": true
   },
@@ -2526,6 +2633,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/steel_scaffolding_grate_top_from_slab": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2022-07-17 21:20:23 +0900"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2022-07-12 22:13:30 +0900"
@@ -2592,6 +2705,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stairs_steel_scaffolding_grate_top": {
+    "criteria": {
+      "has_steel_scaffolding_grate_top": "2022-07-17 21:20:23 +0900"
+    },
+    "done": true
+  },
   "create:train_roadkill": {
     "criteria": {
       "0": "2022-07-13 00:15:26 +0900"
@@ -2652,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2022-07-17 22:22:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-07-13 22:05:21 +0900"
@@ -2679,6 +2804,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2022-07-12 23:50:10 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/railgun": {
+    "criteria": {
+      "has_capacitor_hv": "2022-07-17 21:28:54 +0900"
     },
     "done": true
   },
