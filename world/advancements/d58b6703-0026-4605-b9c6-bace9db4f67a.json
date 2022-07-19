@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/gun_ammo": {
+    "criteria": {
+      "has_minigun": "2022-07-19 22:31:02 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2022-07-12 21:10:32 +0900"
@@ -696,6 +702,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:minigun": {
+    "criteria": {
+      "0": "2022-07-19 22:31:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-07-12 22:23:05 +0900"
@@ -1171,6 +1183,7 @@
       "minecraft:deep_ocean": "2022-07-12 21:37:01 +0900",
       "minecraft:sunflower_plains": "2022-07-17 21:02:16 +0900",
       "minecraft:birch_forest": "2022-07-14 00:17:32 +0900",
+      "minecraft:windswept_hills": "2022-07-19 22:26:05 +0900",
       "minecraft:beach": "2022-07-13 21:44:25 +0900",
       "minecraft:dark_forest": "2022-07-12 22:23:28 +0900",
       "minecraft:river": "2022-07-12 21:21:04 +0900",
@@ -1178,6 +1191,7 @@
       "minecraft:stony_shore": "2022-07-12 21:37:08 +0900",
       "minecraft:dripstone_caves": "2022-07-14 19:41:39 +0900",
       "minecraft:grove": "2022-07-13 21:34:17 +0900",
+      "minecraft:swamp": "2022-07-19 22:26:09 +0900",
       "minecraft:cold_ocean": "2022-07-13 21:33:26 +0900",
       "minecraft:forest": "2022-07-12 20:57:27 +0900",
       "minecraft:lush_caves": "2022-07-12 22:24:41 +0900",

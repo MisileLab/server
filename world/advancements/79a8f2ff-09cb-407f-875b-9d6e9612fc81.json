@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "create:conductor": {
+    "criteria": {
+      "0": "2022-07-19 23:47:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-12 21:59:43 +0900"
@@ -1345,9 +1351,14 @@
       "minecraft:dark_forest": "2022-07-12 21:47:04 +0900",
       "minecraft:river": "2022-07-12 21:35:15 +0900",
       "minecraft:stony_shore": "2022-07-12 21:35:19 +0900",
+      "minecraft:dripstone_caves": "2022-07-19 23:17:18 +0900",
       "minecraft:cold_ocean": "2022-07-14 00:33:33 +0900",
       "minecraft:forest": "2022-07-12 21:33:02 +0900",
-      "minecraft:ocean": "2022-07-12 21:33:46 +0900"
+      "minecraft:ocean": "2022-07-12 21:33:46 +0900",
+      "minecraft:frozen_peaks": "2022-07-19 23:17:21 +0900",
+      "minecraft:old_growth_birch_forest": "2022-07-19 23:14:38 +0900",
+      "minecraft:savanna": "2022-07-19 23:23:01 +0900",
+      "minecraft:plains": "2022-07-19 23:30:42 +0900"
     },
     "done": false
   },
